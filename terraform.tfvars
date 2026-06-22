@@ -70,6 +70,11 @@ public_ips = {
     resource_group_key = "rg2"
     location           = "centralindia"
   }
+pip2 = {
+    name               = "web-pip1"
+    resource_group_key = "rg2"
+    location           = "centralindia"
+  }
 }
 
 nics = {
