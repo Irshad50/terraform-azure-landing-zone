@@ -89,7 +89,6 @@ nics = {
     pip_key    = "pip2"
   }
 }
-}
 
 vms = {
 
