@@ -104,7 +104,7 @@ vms = {
     name     = "webvm02"
     rg_key   = "rg2"
     location = "centralindia"
-    nic_key  = "nic1"
+    nic_key  = "nic2"
     size     = "Standard_D2s_V3"
   }
 }
