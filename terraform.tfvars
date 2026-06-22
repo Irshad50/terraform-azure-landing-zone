@@ -81,6 +81,14 @@ nics = {
     subnet_key = "subnet1"
     pip_key    = "pip1"
   }
+ nic2 = {
+    name       = "web-nic-2"
+    rg_key     = "rg2"
+    location   = "centralindia"
+    subnet_key = "subnet1"
+    pip_key    = "pip2"
+  }
+}
 }
 
 vms = {
